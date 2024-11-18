@@ -1,0 +1,26 @@
+body{
+    font-family: "Roboto", sans-serif;
+    background-color: rgb(4, 90, 165);
+    color: rgb(241, 249, 255);
+    margin: 0px;
+    margin-bottom: 100px;
+}
+header{
+    color: rgba(28, 28, 138, 0.774);
+    border-bottom: 3px solid white;
+    font-size: 32;
+    padding: 15px;
+}
+h1{
+    font-size: 35px;
+}
+.chamada{
+    background-color: rgb(73, 73, 231);
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
+}
